@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NIIT二维码</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">你好</string>
+    <string name="msg_load_ing">加载中</string>
+
+    <!-- 用户中心 -->
+    <string name="user_center">个人中心</string>
+    <string name="user_login_alert">你终于来啦，快登录吧</string>
+    <string name="user_key_alert">输入你的密钥</string>
+    <string name="user_bind_btn">绑定</string>
+    <string name="user_qr_scan_btn">二维码扫描登陆</string>
+    <string name="user_alert">请在web端登陆后，寻找你的密钥：\nhttp://my.eoe.cn/admin/profile/auth.html\n会员中心>设置>客户端密钥（如下图）</string>
+    <string name="user_button_alert">登陆后，你可以享有以下功能</string>
+    <string name="user_level_alert">社区勋章</string>
+    <string name="user_login_another">换一种方式登录</string>
+    <string name="user_logout">注销</string>
+
+    <!-- 登录 -->
+    <string name="user_title">eoe</string>
+    <string name="user_cancel">取消</string>
+    <string name="user_remember">记住密码</string>
+    <string name="user_enter">立即登录</string>
+    <string name="user_user_empty">用户名不能为空!</string>
+    <string name="user_pwd_empty">密码不能为空!</string>
+    <string name="user_login_prompt">请先登录</string>
+    <string name="user_login_enter_key">请先输入密钥</string>
+
+    <!-- 上拉下拉 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="press_again_exit">再按一次退出</string>
+
+    <!-- 错误提示 -->
+    <string name="httpError">连接失败</string>
+    <string name="httpisNull">没有网络</string>
+    <string name="dataerror">数据获取异常</string>
+    <string name="user_center_error">请先登录再进入用户中心</string>
+    <string name="user_username">输入用户名</string>
+    <string name="user_pwd">输入密码</string>
+    <string name="user_confirm">再次输入密码</string>
+    <string name="user_pwdnotsame">密码输入不一致</string>
+    <string name="user_notcheck">请同意《赚赚使用协议》</string>
+    <string name="user_login_success">用户登陆成功!</string>
+    <string name="user_login_error">用户名或者密码错误!</string>
+    <string name="user_login_exits">该用户名已经存在，请更换!</string>
+    <string name="user_safecode">输入验证码!</string>
+    <string name="user_safecode_error">验证码错误!</string>
+    <string name="user_pwd_success">密码设置发生异常!</string>
+    <string name="user_pwd_error">密码设置发生异常!</string>
+    <string name="user_loginKey_error">错误密钥!</string>
+    <string name="user_loginInfo_error">获取信息失败，\n请尝试重新登录。</string>
+    <string name="about">关于我们</string>
+    <string name="about_tontact">联系我们：</string>
+
+    <!-- 详情页面 -->
+    <string name="detail_prompt">写评论</string>
+    <string name="detail_enter">发表</string>
+    <string name="discuss_succeed">发表成功</string>
+    <string name="discuss_fail">发表失败</string>
+    <string name="query_prompt">请输入关键字</string>
+
+    <!-- 用户反馈 -->
+    <string name="feedback_submit">提交</string>
+    <string name="feedback_input_content">请输入您的反馈意见</string>
+    <string name="feedback_back">返回</string>
+
+    <!-- 用户中心 -->
+    <string name="user_center_get_info_error">获取信息错误</string>
+    <string name="user_center_my_Collect">我的收藏</string>
+    <string name="user_center_my_Intro">个人简介</string>
+    <string name="user_center_exit">退出功能</string>
+    <string name="user_center_findpwd_phone">请输入手机号码。</string>
+    <string name="user_center_updatepwd_success">修改密码成功。</string>
+    <string name="user_center_register_pwd_success">密码设置成功！</string>
+    <string name="user_center_register_pwd_error">密码设置异常！</string>
+    <string name="user_center_register_safecode_tip">验证成功，请设置密码！</string>
+
+    <!-- 设置中心 -->
+    <string name="setting_cache">缓存清空完成！</string>
+    <string name="setting_bing_address">请输入收货人联系地址。</string>
+    <string name="setting_bing_name">请输入收货人姓名。</string>
+    <string name="setting_bing_phone">请输入收货人联系方式。</string>
+    <string name="setting_bing_success">成功绑定地址！</string>
+    <string name="setting_bing_error">绑定地址失败！</string>
+    <string name="bing_mobile_code">请输入验证码。</string>
+    <string name="bing_mobile_phone">请输入手机号码。</string>
+    <string name="bing_mobile_codeerror">发送验证码异常。</string>
+    <string name="bing_mobile_check_error">验证码验证失败。</string>
+    <string name="bing_mobile_check_success">验证码已经通过短信发送给您。</string>
+    <string name="bing_mobile_success">绑定成功。</string>
+
+    <!-- 收入 -->
+    <string name="money_withdrawl">成功为您申请取现，请等待管理员审核。</string>
+
+    <!-- 积分中心 -->
+    <string name="integral_order_success">兑换积分成功。</string>
+    <string name="integral_order_error">兑换积分失败。</string>
+    <string name="integral_sign_error">签到时候发生异常！</string>
+    <!-- 订单中心 -->
+    <string name="order_create_address">完成购物前，请先绑定您的收货信息。</string>
+    <string name="order_create_error">添加产品至购物车时，发生异常</string>
+    <string name="order_details_back">成功申请退款</string>
+    <string name="product_details_error">添加产品至收藏夹失败</string>
+    <string name="product_details_success">成功添加产品至收藏夹</string>
+    <string name="product_details_share">分享前，请先绑定账户。</string>
+
+    <!-- 二维码扫描 -->
+    <string name="scan_tip">请将二维码置于取景框内扫描</string>
+    <string name="scan_retry">二维码扫描出错啦,请重新扫描</string>
+    <string name="scan_title">扫一扫</string>
+    <string name="app_user_center_title">个人中心</string>
+    <string name="app_user_login_title">用户登录</string>
+    <string name="app_user_register_title">用户注册</string>
+    <string name="app_user_register_tip">正在注册，请稍候…</string>
+    <string name="app_user_login_btn">登录</string>
+    <string name="app_user_login_name_hint">手机号</string>
+    <string name="app_user_login_pwd_hint">密码</string>
+    <string name="app_user_find_pwd_title">找回密码</string>
+    <string name="app_user_find_pwd_hint">输入手机号</string>
+    <string name="app_user_get_verify_code">获取验证码</string>
+    <string name="app_user_verify_code_hint">输入短信验证码</string>
+    <string name="app_user_illegal_phone">您输入的手机号有点短</string>
+    <string name="app_user_get_verify_code_ok">验证码已发送到您的手机,请注意查收</string>
+    <string name="app_user_phone_null">手机号码为空</string>
+    <string name="app_user_verify_code_null">验证码为空</string>
+    <string name="app_user_modify_pwd_title">修改密码</string>
+    <string name="app_user_first_pwd_hint">输入密码…</string>
+    <string name="app_user_second_pwd_hint">确认密码…</string>
+    <string name="app_user_modify_pwd_submit">完成</string>
+    <string name="app_user_register_phone_hint">输入手机号</string>
+    <string name="app_user_register_pwd">确认密码</string>
+    <string name="app_user_register_invitation_code">输入邀请码</string>
+    <string name="app_user_find_pwd_by_phone"><u>使用手机号找回></u></string>
+    <string name="app_user_bind_phone_number">手机号绑定成功</string>
+    <string name="app_user_bind_phone_tip">绑定新手机号后,你原先的号码:{$}就不能用来登录了,需使用新手机号或用户名登录,是否继续?</string>
+    <string name="app_clearing">清除中…</string>
+    <string name="app_clear_error">清除缓存错误</string>
+    <string name="app_protocol_tip"></string>
+    <string name="app_bind_phone_tip">请输入手机号,以便将券码发到该手机</string>
+    <string name="app_bind_new_phone_tip">绑定新手机号后，原手机号将不能作为登录凭证.</string>
+    <string name="app_use_help">《使用帮助》</string>
+    <string name="app_integral_shop_title">积分商城</string>
+    <string name="app_setting_no_photo">无图模式</string>
+    <string name="app_setting_notify">团购提醒</string>
+    <string name="app_setting_bunt">消息推送</string>
+    <string name="app_setting_load_more">列表自动加载更多</string>
+    <string name="app_setting_city">切换城市</string>
+    <string name="app_setting_about_us">关于我们</string>
+    <string name="app_setting_opinion">意见反馈</string>
+    <string name="app_setting_change_bg">设置背景</string>
+    <string name="app_setting_clear_cash">清除缓存</string>
+    <string name="app_setting_share">邀请朋友下载团800</string>
+    <string name="app_setting_report">每日签到</string>
+    <string name="app_setting_check_update">检查版本更新</string>
+    <string name="app_setting_modify_password">重置密码</string>
+    <string name="app_setting_bind_phone">绑定手机</string>
+    <string name="app_setting_bind_share">绑定分享</string>
+    <string name="app_settings_receive_address">收货地址</string>
+    <string name="app_settings_app_download">应用下载</string>
+    <string name="app_settings_evaluate">打分评价</string>
+    <string name="app_setting_business">商务合作</string>
+    <string name="app_setting_help">使用帮助</string>
+    <string name="app_setting_about">关于</string>
+    <string name="app_net_error_msg">网络断了哦，请检查网络设置</string>
+    <string name="app_net_error">网络错误，请检查网络设置</string>
+    <string name="app_net_timeout">网络连接超时,请稍后再试</string>
+    <string name="app_net_crabs">网络连接错误，请检查网络设置或稍候再试</string>
+    <string name="load_click_again_label">获取数据失败，点击重试</string>
+    <string name="title_activity_make_qrcode">MakeQRCodeActivity</string>
+
+</resources>
